@@ -3,7 +3,7 @@
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 LaraTime is all generated with __QuickAdmin__ except for custom code for __Reports__ functionality.
 
-![LaraTime screenshot](http://webcoderpro.com/laratime-demo.png)
+![LaraTime screenshot](https://laraveldaily.com/wp-content/uploads/2018/11/laratime-demo.png)
 
 ## How to use
 
@@ -27,3 +27,4 @@ Basically, feel free to use and re-use any way you want.
 - Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
 - Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
